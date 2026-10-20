@@ -1,0 +1,16 @@
+{
+  "name": "barwaqo-bank",
+  "version": "1.0.0",
+  "description": "BARWAQO BANK — Enterprise Core Banking Management System",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "test": "cd server && npm test",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["banking", "fintech", "barwaqo-bank", "mern", "somalia"],
+  "author": "BARWAQO BANK Team",
+  "license": "ISC"
+}
+
